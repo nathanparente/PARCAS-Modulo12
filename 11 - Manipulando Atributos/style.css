@@ -1,0 +1,18 @@
+body {
+    background-color: #f2f2f2;
+}
+
+button {
+    margin-top: 50px;
+    background-color: rgb(224, 165, 54);
+    width: 200px;
+    height: 80px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+img {
+    height: 400px;
+    width: 490px;
+}
+
